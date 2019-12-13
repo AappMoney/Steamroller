@@ -7,4 +7,4 @@ function hasNext(array){
 }
 
 
-console.log(hasNext(CULLARR));
+console.log(hasNext(CULLARR)); // [ 2, 4, 6 ]
